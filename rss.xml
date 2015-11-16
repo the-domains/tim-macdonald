@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim MacDonald]]></title>
+        <description><![CDATA[Tim MacDonald]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 06:59:40 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tear In My Heart - Twenty One Pilots (Wisdom Tree Cover)]]></title>
+            <description><![CDATA[<article><h1>Tear In My Heart - Twenty One Pilots (Wisdom Tree Cover)</h1><p>Hiked up the wisdom tree for a great view and to play a couple songs =) Facebook: https://www.facebook.com/TimMacDonaldMusic Twitter: https://twitter.com/iamtimmacdonald Instagram: https://instagram.com/iamtimmacdonald SoundCloud: https://soundcloud.com/timmacdonaldmusic</p><img src="https://i.ytimg.com/vi/6TvlZjBTDtA/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=6TvlZjBTDtA</link>
+            <guid isPermaLink="false">a7cd395d-68a9-4084-a46f-99c8cbe180cc</guid>
+            <pubDate>Mon, 16 Nov 2015 06:59:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
