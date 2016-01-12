@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tim MacDonald Music]]></title>
+        <description><![CDATA[Tim MacDonald Music]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Jan 2016 16:31:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[home]]></title>
+            <description><![CDATA[<article><h1>home</h1><p>THIS IS TI</p></article>]]></description>
+            <link>undefinedhome/index.html</link>
+            <guid isPermaLink="false">e30b8ac4-1762-431f-aec5-32cab2140f3e</guid>
+            <pubDate>Tue, 12 Jan 2016 16:31:15 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
